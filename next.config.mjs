@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // For build as static website
+  // Build as static website
   output: 'export',
 };
 
